@@ -2,7 +2,11 @@ header
 {
 	background: #333;
 }
-.portada
+#portada
 {
 	display: inline-block;
+}
+
+.float{
+	float: left;
 }
