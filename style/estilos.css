@@ -9,9 +9,15 @@ header
 	display: inline-block;
 }
 
-.float{
+.float
+{
 	float: left;
 }
 .imagen-portada{
 	width: 300px;
+}
+#comentarios
+{
+	background: #177;
+	text-align: center;
 }
